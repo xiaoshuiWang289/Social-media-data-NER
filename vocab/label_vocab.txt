@@ -1,0 +1,27 @@
+max_size	None
+min_freq	None
+unknown	<unk>
+padding	<pad>
+rebuild	False
+
+O	35503	2	0
+B-flood	111	13	0
+I-flood	111	14	0
+B-need	476	3	0
+I-need	449	4	0
+B-Person	374	7	0
+I-Person	399	5	0
+B-stuck	162	11	0
+I-stuck	162	12	0
+B-mei	336	8	0
+I-mei	378	6	0
+B-disease	44	20	0
+I-disease	75	18	0
+B-water	107	15	0
+I-water	98	17	0
+B-signal	65	19	0
+I-signal	170	10	0
+B-miss	101	16	0
+I-miss	202	9	0
+B-building	31	21	0
+I-building	31	22	0
